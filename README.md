@@ -1,3 +1,3 @@
-GitHub page for give away items. 
+GitHub page for giveaway items. 
 
-https://adatanasov.github.io/give-away/
+https://ikoevska.github.io/give-away/
